@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	background-image: url("../../whirlpool.png");
+}
+
+header{
+	display: inline;
+	margin-bottom: 0;
+	color: #fff;
+	background: white;
+	border: 5px;
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#top {
+	float: left;
+	padding: 10px;
+	background: #4aaaa5;
+	color: white;
+	margin-left: 15%;
+}
+
+#About {
+	float: left;
+	margin-left: 30%;
+	background: white;
+	width: 5%;
+}
+
+#Portfolio {
+	float: left;
+	margin-left: 40%;
+	background: white;
+	width: 5%;
+}
+
+#Contact {
+	float: left;
+	margin-left: 50%;
+	background: white;
+	width: 5%;
+}
