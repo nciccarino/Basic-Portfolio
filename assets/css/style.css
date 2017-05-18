@@ -131,8 +131,12 @@ p {
 	width: 60px;
 }
 
+main {
+	overflow: auto;
+}
+
 footer {
-  position: fixed;
+  position: relative;
   margin-top: 2%; 
   width: 100%;
   text-align: center;
